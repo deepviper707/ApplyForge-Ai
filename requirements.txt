@@ -1,0 +1,9 @@
+playwright
+beautifulsoup4
+requests
+spacy
+sentence-transformers
+python-docx
+pandas
+PyYAML
+groq
