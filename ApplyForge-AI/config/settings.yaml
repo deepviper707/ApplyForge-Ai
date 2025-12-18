@@ -1,0 +1,14 @@
+job_search:
+  keywords: "python developer OR software engineer"
+  location: "United States"
+  pages_to_search: 2
+matching:
+  min_similarity_threshold: 0.65
+llm:
+  provider: "groq"
+  groq_api_key: "your_groq_key_here"
+  model: "llama3-70b-8192"
+automation:
+  headless: false
+  apply_automatically: false
+  delay_range: [8, 15]
