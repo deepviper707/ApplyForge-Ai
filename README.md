@@ -2,7 +2,8 @@ ApplyForge-AI 🚀
 
 AI-powered job application toolkit. Searches jobs (Indeed & LinkedIn), fetches full descriptions, semantically matches to your resume, tailors resume/cover letter with LLM, automates browser applying (Playwright), tracks everything in SQLite.
 Built by Adrian James.
-Features
+
+Features:
 
 Job searching (Indeed/LinkedIn)
 Full job description fetching
@@ -26,7 +27,9 @@ Edit config/settings.yaml → add key to groq_api_key: "your_key_here"
 
 Prepare your documents
 Place your base resume as plain text: data/base_resume.txt (copy content from DOCX/PDF)
-Optional: Add data/base_cover_letter.txt (universal template)
+Optional: 
+
+Add data/base_cover_letter.txt (universal template)
 
 Configure search
 Edit config/settings.yaml:
@@ -63,4 +66,6 @@ Integrate tailoring (call tailor.py)
 Add Playwright Easy Apply logic
 Export tailored docs to outputs/
 
-MIT License. Star if useful!
+MIT License. 
+
+Star if useful!
