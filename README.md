@@ -1,4 +1,5 @@
 ApplyForge-AI 🚀
+
 AI-powered job application toolkit. Searches jobs (Indeed & LinkedIn), fetches full descriptions, semantically matches to your resume, tailors resume/cover letter with LLM, automates browser applying (Playwright), tracks everything in SQLite.
 Built by Adrian James.
 Features
